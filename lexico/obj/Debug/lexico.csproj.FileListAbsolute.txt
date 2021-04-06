@@ -1,0 +1,7 @@
+C:\Users\migke\OneDrive\Escritorio\Miguel\8vo semestre\proyecti - lexico\lexico\bin\Debug\lexico.exe.config
+C:\Users\migke\OneDrive\Escritorio\Miguel\8vo semestre\proyecti - lexico\lexico\bin\Debug\lexico.exe
+C:\Users\migke\OneDrive\Escritorio\Miguel\8vo semestre\proyecti - lexico\lexico\bin\Debug\lexico.pdb
+C:\Users\migke\OneDrive\Escritorio\Miguel\8vo semestre\proyecti - lexico\lexico\obj\Debug\lexico.csprojAssemblyReference.cache
+C:\Users\migke\OneDrive\Escritorio\Miguel\8vo semestre\proyecti - lexico\lexico\obj\Debug\lexico.csproj.CoreCompileInputs.cache
+C:\Users\migke\OneDrive\Escritorio\Miguel\8vo semestre\proyecti - lexico\lexico\obj\Debug\lexico.exe
+C:\Users\migke\OneDrive\Escritorio\Miguel\8vo semestre\proyecti - lexico\lexico\obj\Debug\lexico.pdb

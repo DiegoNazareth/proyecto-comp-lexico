@@ -1,0 +1,7 @@
+hola+++//qu+ te +
+int=2;
+2 - 3;/*creo si funcionara*/
+bye bye
+/*pero por si las 
+dudas hay =+´{} que probarlo*/miguel
+int var++;
